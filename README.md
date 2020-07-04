@@ -1,4 +1,5 @@
 # photo-gallery
+code from tutorial at: https://travishorn.com/creating-a-photo-gallery-with-vue-css-grid-3e0a3dd25285
 
 ## Project setup
 ```
